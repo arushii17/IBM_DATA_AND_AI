@@ -8,6 +8,6 @@ I enrolled in IBM's professional learning path on **Data and AI**, which consist
 
 ## 🏅 Certifications
 
-In total, I completed **66 certifications** through this program. All of them have been uploaded in the [`CERTIFICATES`] (./CERTIFICATES/) folder for reference.
+In total, I completed **66 certifications** through this program. All of them have been uploaded in the `CERTIFICATES` folder for reference.
 
 
